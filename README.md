@@ -7,6 +7,7 @@
 - [Hychen](http://hychen.wuweig.org/about-me/) :: 示範用
 
 ## 助教
+- [Wonder](http://merry.ee.ncku.edu.tw/~wonder/about-me/)
 
 ## 修課學生
 
