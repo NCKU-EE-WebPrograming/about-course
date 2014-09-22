@@ -9,10 +9,10 @@
 
 請修課的同學依照下列格式，利用[Pull Request][1]把你的自介連結加在下面
 
-``
+```
 # [名稱](連結)
-- [Example Person](http://example.com)
-``
+- [Example Person](http://example.com) :: 簡介
+```
 
 ### 2014
 
