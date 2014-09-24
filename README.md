@@ -18,13 +18,13 @@
 請修課的同學依照下列格式，利用[Pull Request][1]把你的自介連結加在下面
 
 ```
-- [你的名子](http://example.com) :: 簡介
+- [姓名(ID)](http://example.com) :: 簡介
 ```
 
 ### 2014
 
-- [JingFei](http://jingfei.github.io/about-me/) :: 簡介
-- [PockyChen](http://pockychen.github.io/about-me/) :: 簡介
+- [楊靜妃(jingfei)](http://jingfei.github.io/about-me/) :: 簡介
+- [陳學誼(pocky)](http://pockychen.github.io/about-me/) :: 簡介
 
 [1]: http://zoro.ee.ncku.edu.tw/wp2014/
 [2]: https://help.github.com/articles/using-pull-requests
