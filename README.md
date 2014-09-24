@@ -24,6 +24,7 @@
 ### 2014
 
 - [JingFei](http://jingfei.github.io/about-me/) :: 簡介
+- [PockyChen](http://pockychen.github.io/about-me/) :: 簡介
 
 [1]: http://zoro.ee.ncku.edu.tw/wp2014/
 [2]: https://help.github.com/articles/using-pull-requests
