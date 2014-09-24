@@ -20,10 +20,10 @@
 ```
 - [你的名子](http://example.com) :: 簡介
 ```
-  [鄭基漢](http://hanago.github.io/about-me/) :: 簡介
+
 ### 2014
 
-- [沒有人](http://nodebody.com) :: 示範用
+- [鄭基漢](http://hanago.github.io/about-me/) :: 簡介
 
 [1]: http://zoro.ee.ncku.edu.tw/wp2014/
 [2]: https://help.github.com/articles/using-pull-requests
