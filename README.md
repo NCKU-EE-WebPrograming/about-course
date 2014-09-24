@@ -25,6 +25,8 @@
 
 - [楊靜妃(jingfei)](http://jingfei.github.io/about-me/) :: 簡介
 - [陳學誼(pocky)](http://pockychen.github.io/about-me/) :: 簡介
+- [丁家麒(intheblackworld)](http://intheblackworld.github.io/about-me/) :: 簡介
+
 
 [1]: http://zoro.ee.ncku.edu.tw/wp2014/
 [2]: https://help.github.com/articles/using-pull-requests
