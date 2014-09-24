@@ -3,6 +3,9 @@
 
 本 github repo 是用來在[成大電機網際網路程式設計課程][1]中的 github 教學中使用
 
+## 授課教授
+- [張天豪副教授](http://office.ee.ncku.edu.tw/nckueechinese/professor/T710-darby/T0000000c.htm)
+
 ## 講師
 - [Hychen](http://hychen.wuweig.org/about-me/) :: 示範用
 
