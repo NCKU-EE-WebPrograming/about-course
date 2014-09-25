@@ -1,4 +1,4 @@
-關於
+﻿關於
 =====
 
 本 github repo 是用來在[成大電機網際網路程式設計課程][1]中的 github 教學中使用
@@ -29,6 +29,7 @@
 - [鄭基漢](http://hanago.github.io/about-me/) :: 簡介
 - [吳怡倫(ashescat)] (http://ashescat.github.io/about-me/) :: 簡介
 - [丁家麒(intheblackworld)](http://intheblackworld.github.io/about-me/) :: 簡介
+- [吳享龍(dragom6511)](http://dragom6511.github.io/about-me/) :: 簡介
 
 [1]: http://zoro.ee.ncku.edu.tw/wp2014/
 [2]: https://help.github.com/articles/using-pull-requests
