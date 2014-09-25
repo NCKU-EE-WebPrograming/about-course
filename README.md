@@ -25,7 +25,7 @@
 
 - [楊靜妃(jingfei)](http://jingfei.github.io/about-me/) :: 簡介
 - [陳學誼(pocky)](http://pockychen.github.io/about-me/) :: 簡介
-- [Moksas](http://moksas.github.io/about-me/)
+- [李政憲(Moksas)](moksas.github.io/about-me/)::簡介
 - [鄭基漢](http://hanago.github.io/about-me/) :: 簡介
 - [吳怡倫(ashescat)] (http://ashescat.github.io/about-me/) :: 簡介
 - [丁家麒(intheblackworld)](http://intheblackworld.github.io/about-me/) :: 簡介
