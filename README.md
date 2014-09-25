@@ -29,6 +29,7 @@
 - [鄭基漢](http://hanago.github.io/about-me/) :: 簡介
 - [吳怡倫(ashescat)] (http://ashescat.github.io/about-me/) :: 簡介
 - [丁家麒(intheblackworld)](http://intheblackworld.github.io/about-me/) :: 簡介
+- [蔡宗翰(hank)](http://hank2014.github.io/about-me/) :: hello!everybody!
 
 [1]: http://zoro.ee.ncku.edu.tw/wp2014/
 [2]: https://help.github.com/articles/using-pull-requests
