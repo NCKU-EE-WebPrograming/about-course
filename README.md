@@ -15,7 +15,7 @@
 
 ## 修課學生
 
-請修課的同學依照下列格式，利用[Pull Request][1]把你的自介連結加在下面
+請修課的同學依照下列格式，利用[Pull Request](https://help.github.com/articles/using-pull-requests)把你的自介連結加在下面
 
 ```
 - [姓名(ID)](http://example.com) :: 簡介
