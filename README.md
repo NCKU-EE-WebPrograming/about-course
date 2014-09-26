@@ -32,6 +32,6 @@
 - [蔡宗翰(hank)](http://hank2014.github.io/about-me/) :: hello!everybody!
 - [謝政穎(pix0127)](http://pix0127.github.io/about-me/) :: 簡介
 - [吳享龍(dragom6511)](http://dragom6511.github.io/about-me/) :: 簡介
-
+- [魏禛(cwei)](http://cwei83.github.io/about-me/) :: 簡介
 [1]: http://zoro.ee.ncku.edu.tw/wp2014/
 [2]: https://help.github.com/articles/using-pull-requests
