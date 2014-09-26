@@ -34,5 +34,7 @@
 - [吳享龍(dragom6511)](http://dragom6511.github.io/about-me/) :: 簡介
 - [魏禛(cwei)](http://cwei83.github.io/about-me/) :: 簡介
 - [楊璿衛(hsuanweiyang)](http://hsuanweiyang.github.io/about-me/) :: 簡介
+- [詹欣達(dada8397)](http://dada8397.github.io/about-me/) :: 簡介
+
 [1]: http://zoro.ee.ncku.edu.tw/wp2014/
 [2]: https://help.github.com/articles/using-pull-requests
