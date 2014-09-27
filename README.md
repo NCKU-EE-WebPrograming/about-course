@@ -23,7 +23,7 @@
 
 ### 2014
 
-- [沒有人](http://nodebody.com) :: 示範用
+
 -[李育丞(ycl)]( http://atumama.github.io/about-me/)::示範用 
 
 [1]: http://zoro.ee.ncku.edu.tw/wp2014/
