@@ -23,6 +23,7 @@
 
 ### 2014
 
+- [林廷毓(yoni2266)](http://yoni2266.github.io/about-me/) :: 簡介
 - [楊靜妃(jingfei)](http://jingfei.github.io/about-me/) :: 簡介
 - [陳學誼(pocky)](http://pockychen.github.io/about-me/) :: 簡介
 - [李政憲(Moksas)](http://moksas.github.io/about-me/)::簡介
