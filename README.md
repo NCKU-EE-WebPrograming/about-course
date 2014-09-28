@@ -40,6 +40,7 @@
 - [李育丞(ycl)]( http://atumama.github.io/about-me/)::示範用 
 - [蘇誌航(henrysutw)](http://henrysutw.github.io/about-me/) :: 簡介
 - [陳彥蓉(Amomo)](http://amomo.github.io/about-me/) :: 簡介
+- [洪梓軒](https://simplepower.github.io/about-me) :: 簡介
 
 [1]: http://zoro.ee.ncku.edu.tw/wp2014/
 [2]: https://help.github.com/articles/using-pull-requests
