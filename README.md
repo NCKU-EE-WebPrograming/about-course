@@ -43,6 +43,7 @@
 - [陳彥蓉(Amomo)](http://amomo.github.io/about-me/) :: 簡介
 - [洪梓軒(SimplePower)](https://simplepower.github.io/about-me) :: 簡介
 - [劉書瑋(yukei456)](http://yukei456.github.io/about-me/) :: 簡介
+- [嚴宇(beau)](http://e24016611.github.io/about-me) ::簡介
 
 [1]: http://zoro.ee.ncku.edu.tw/wp2014/
 [2]: https://help.github.com/articles/using-pull-requests
