@@ -44,6 +44,7 @@
 - [洪梓軒(SimplePower)](https://simplepower.github.io/about-me) :: 簡介
 - [劉書瑋(yukei456)](http://yukei456.github.io/about-me/) :: 簡介
 - [嚴宇(beau)](http://e24016611.github.io/about-me) ::簡介
+- [蔡森至(senchih)](http://senchih.github.io/about-me/) :: 大家在簡介欄位打「簡介」兩個字的用意是什麼
 
 [1]: http://zoro.ee.ncku.edu.tw/wp2014/
 [2]: https://help.github.com/articles/using-pull-requests
