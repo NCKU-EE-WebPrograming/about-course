@@ -55,6 +55,6 @@
 - [陳貞霓(CSChenVB)](http://cschenvb.github.io/about-me/) :: 簡介
 - [方沛涵(almightybobo)](http://almightybobo.github.io/about-me/) ::BOBO
 - [呂明翰(HankLyu)](http://HankLyu.github.io/about-me/) ::HaHa
-- 
+
 [1]: http://zoro.ee.ncku.edu.tw/wp2014/
 [2]: https://help.github.com/articles/using-pull-requests
