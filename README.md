@@ -42,6 +42,6 @@
 - [蘇誌航(henrysutw)](http://henrysutw.github.io/about-me/) :: 簡介
 - [陳彥蓉(Amomo)](http://amomo.github.io/about-me/) :: 簡介
 - [洪梓軒(SimplePower)](https://simplepower.github.io/about-me) :: 簡介
-
+- [鍾旭成(c28341994)](https://c28341994.github.io/about-me) :: 簡介
 [1]: http://zoro.ee.ncku.edu.tw/wp2014/
 [2]: https://help.github.com/articles/using-pull-requests
