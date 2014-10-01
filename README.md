@@ -57,6 +57,6 @@
 - [呂明翰(HankLyu)](http://HankLyu.github.io/about-me/) ::HaHa
 - [鍾旭成(c28341994)](https://c28341994.github.io/about-me) :: 簡介
 - [黃啟軒(chihsuan)](http://chihsuan.github.io/about-me/) :: 簡介
-
+- [孫培峰(befong000)](http://befong000.github.io/about-me/) :: 簡介
 [1]: http://zoro.ee.ncku.edu.tw/wp2014/
 [2]: https://help.github.com/articles/using-pull-requests
