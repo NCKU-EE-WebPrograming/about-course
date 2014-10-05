@@ -1,5 +1,6 @@
 ﻿關於
 =====
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/NCKU-EE-WebPrograming/about-course?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 本 github repo 是用來在[成大電機網際網路程式設計課程][1]中的 github 教學中使用
 
