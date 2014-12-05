@@ -40,7 +40,6 @@
 - [詹欣達(dada8397)](http://dada8397.github.io/about-me/) :: 簡介
 - [楊耘臺(mroops0111)](http://mroops0111.github.io/about-me/) :: 簡介
 - [李育丞(ycl)]( http://atumama.github.io/about-me/)::示範用 
-- [蘇誌航(henrysutw)](http://henrysutw.github.io/about-me/) :: 簡介
 - [陳彥蓉(Amomo)](http://amomo.github.io/about-me/) :: 簡介
 - [洪梓軒(SimplePower)](https://simplepower.github.io/about-me) :: 簡介
 - [劉書瑋(yukei456)](http://yukei456.github.io/about-me/) :: 簡介
@@ -59,5 +58,7 @@
 - [鍾旭成(c28341994)](https://c28341994.github.io/about-me) :: 簡介
 - [黃啟軒(chihsuan)](http://chihsuan.github.io/about-me/) :: 簡介
 - [孫培峰(befong000)](http://befong000.github.io/about-me/) :: 簡介
+- [Henry Su(henrysutw)](http://henrysutw.github.io/about-me/) :: 簡介
+
 [1]: http://zoro.ee.ncku.edu.tw/wp2014/
 [2]: https://help.github.com/articles/using-pull-requests
