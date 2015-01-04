@@ -59,6 +59,7 @@
 - [黃啟軒(chihsuan)](http://chihsuan.github.io/about-me/) :: 簡介
 - [孫培峰(befong000)](http://befong000.github.io/about-me/) :: 簡介
 - [Henry Su(henrysutw)](http://henrysutw.github.io/about-me/) :: 簡介
+- [蕭翔之(syoukore)](http://syoukore.github.io/about-me/) :: 簡介
 
 [1]: http://zoro.ee.ncku.edu.tw/wp2014/
 [2]: https://help.github.com/articles/using-pull-requests
